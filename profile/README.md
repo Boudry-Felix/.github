@@ -41,8 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fboudry&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fboudry&theme=radical" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fboudry&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
@@ -51,7 +49,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fboudry&theme=radical" alt="GitHub Profile Summary">
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fboudry&theme=radical" alt="Repos per Language">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fboudry&theme=radical" alt="Most Commit Language">
 </p>
 
@@ -69,6 +66,5 @@
 <p align="center">
   <a href="https://boudry-felix.github.io/"><img src="https://img.shields.io/badge/-Website-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/f%C3%A9lix-boudry-539062172/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/felix_boudry"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:felix.boudry@univ-perp.fr"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>

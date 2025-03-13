@@ -34,30 +34,10 @@
 - 💻 Building tools to simplify **decision making**.  
 - 📊 Contributing to open-source projects related to **data visualization** and **machine learning**.
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fboudry&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fboudry&theme=radical" alt="GitHub Streak">
-</p>
-
----
-
-<h2 align="center">📈 Metrics & Activity</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fboudry&theme=radical" alt="GitHub Profile Summary">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fboudry&theme=radical" alt="Most Commit Language">
-</p>
-
----
-
 <h2 align="center">🏆 My Achievements</h2>
 <p align="center">
   
-  - 📈 Published **1 paper** in the field of **sport sciences**.
+  - 📈 Published **2 paper** in the field of **sport sciences**.
 </p>
 
 ---

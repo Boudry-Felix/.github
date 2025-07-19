@@ -34,12 +34,6 @@
 - 💻 Building tools to simplify **decision making**.  
 - 📊 Contributing to open-source projects related to **data visualization** and **machine learning**.
 
-<h2 align="center">🏆 My Achievements</h2>
-<p align="center">
-  
-  - 📈 Published **2 paper** in the field of **sport sciences**.
-</p>
-
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
